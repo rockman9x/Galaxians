@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Galaxians</string>
+    <string name="hello_world">Hola mon!</string>
+    <string name="PutaBida">Pta Bda!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to galaxians!</string>
+    <string name="ButtonPlay">Play the game!</string>
+    <string name="ButtonStats">Maximum score</string>
+    <string name="statsText">The maximum score is:</string>
+    <string name="gaemText">Gaem text</string>
+    <string name="pauseText">The Game is Paused...</string>
+    <string name="Gamename">   GALAXIANS</string>
+    <string name="exitText">Go back to the Menu?</string>
+
+</resources>

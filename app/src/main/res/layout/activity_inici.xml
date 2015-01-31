@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Inici">
+
+
+    <ImageView
+        android:background="@drawable/pengback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ButtonPlay"
+        android:id="@+id/buttonPlay"
+        android:layout_alignTop="@+id/buttonstats"
+        android:layout_alignParentEnd="true"
+        android:textColor="#ffffffff"
+        />
+
+    <Button
+        android:alpha="1"
+        android:color="#66FF0000"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ButtonStats"
+        android:id="@+id/buttonstats"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffffffff"
+        />
+
+
+</RelativeLayout>
